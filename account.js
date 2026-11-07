@@ -1,22 +1,22 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "TOP UP RI
+var website_name = "TOP UP RI/
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "t.me/topuprafgm
+var telegram_channel_link = "t.me/topuprafgm/
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = ""https://t.me/+lxUs2ckTmrVmOGU1
+var telegram_group_link = ""https://t.me/+lxUs2ckTmrVmOGU1/
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = "https://www.youtube.com/@123rafi44
+var youtube_channel_link = "https://www.youtube.com/@123rafi44/
 
 // =======================================================
 // NOTIFICATION TEXT
